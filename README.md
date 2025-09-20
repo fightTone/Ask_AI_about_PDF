@@ -2,6 +2,12 @@
 
 A Flask web application that allows users to upload PDFs and chat about them using Ollama's dolphin-llama3 model.
 
+## Demo
+
+![PDF Chat Assistant UI](demo-screenshot.png)
+
+*Upload a PDF and chat with it using AI! The interface shows the PDF on the left and an intelligent chatbot on the right.*
+
 ## Features
 
 - 📄 PDF upload via drag & drop or file picker
@@ -64,3 +70,24 @@ PDF_works/
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
 ```
+
+## Contributing & Credits
+
+Feel free to fork, modify, and enhance this project! If you make improvements, please:
+
+1. **Fork the repository**
+2. **Create your feature branch** (`git checkout -b feature/amazing-feature`)
+3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
+4. **Push to the branch** (`git push origin feature/amazing-feature`)
+5. **Open a Pull Request**
+
+### Credits
+- Original concept and implementation by [@geronyl.paragoso](https://github.com/geronyl.paragoso)
+- Built with ❤️ using Flask, Ollama, and dolphin-llama3
+- PDF processing powered by PyPDF2
+
+**Please maintain attribution when forking or modifying this project.**
+
+## License
+
+MIT License - see LICENSE file for details.

@@ -5,6 +5,7 @@ A Flask web application that allows users to upload PDFs and chat about them usi
 ## Demo
 
 ![PDF Chat Assistant UI](demo-screenshot.png)
+<a href="#"><img src="https://github.com/fightTone/Ask_AI_about_PDF/blob/master/sample_images/image.png"/></a>
 
 *Upload a PDF and chat with it using AI! The interface shows the PDF on the left and an intelligent chatbot on the right.*
 
